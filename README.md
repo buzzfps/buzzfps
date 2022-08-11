@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/channel/UCZFFnnqLMb2mUlG5eA_ow3Q/featured" target="blank"><img align="center" src="https://logopng.com.br/logos/youtube-54.png" alt="buzzfps" height="30" width="40" /></a>
 </p>
 
-<p align="left">
+<p align="right">
 <a href="https://steamcommunity.com/id/buzzfps69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="buzzfps" height="30" width="40" /></a>
 </p>
 
