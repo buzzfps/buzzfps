@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-<a href="https://steamcommunity.com/id/buzzfps69" target="blank"><img align="center" src="https://img2.gratispng.com/20180630/wv/kisspng-computer-icons-steam-black-white-desktop-wallpap-steam-icon-5b37632de19ca6.2525116415303565259241.jpg" alt="buzzfps" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/buzzfps69" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" alt="buzzfps" height="30" width="40" /></a>
 </p>
 
 <div>
