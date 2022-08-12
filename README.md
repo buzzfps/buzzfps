@@ -1,4 +1,4 @@
-## Oiii eu sou o buzz, estou cursando o curso de Analise e Desenvolvimentos de sistemas
+## Oi eu sou o buzz, estou cursando o curso de Analise e Desenvolvimentos de sistemas.
 <div align="center">
   <a href="https://github.com/buzzfps">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buzzfps&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
