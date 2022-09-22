@@ -7,7 +7,7 @@
   <a href="https://www.w3schools.com/html/default.asp"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://www.w3schools.com/css/"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a href="https://www.w3schools.com/c/index.php/"><img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="right" alt="Anime" height="150" style="border-radius:50px;" src="https://st3.depositphotos.com/32100976/34458/i/450/depositphotos_344585916-stock-photo-anime-wallpapers-hd-black-and.jpg">
+  <img align="right" alt="Anime" height="150" style="border-radius:75px;" src="https://st3.depositphotos.com/32100976/34458/i/450/depositphotos_344585916-stock-photo-anime-wallpapers-hd-black-and.jpg">
 </div>
   
   ##
