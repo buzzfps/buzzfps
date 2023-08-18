@@ -8,7 +8,7 @@
   <ul width="420">
 <br>
 <div>
-  <img height="130em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzfps&layout=compact&langs_count=7&theme=radical"/>
+  <img height="122em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzfps&layout=compact&langs_count=7&theme=radical"/>
   <img height="35" align="top" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png"/>
   <img height="45" align="top" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
   <img height="40" align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
